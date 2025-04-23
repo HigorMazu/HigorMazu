@@ -28,7 +28,7 @@
 <p align="left">
   🔹 I’ve created <strong>BookLend</strong>, an app to promote reading at Mondelez.<br>
   🔹 I built <strong>SlahTune</strong>, an instrumental music note recognizer using C# and SQL.<br>
-  🔹 I'm currently developing a <strong>retro-style portfolio</strong> inspired by Cuphead & Mickey.<br>
+  🔹 I'm currently developing a <strong>professional portfolio</strong> with a retro aesthetic — featuring a custom mouse cursor inspired by Cuphead & Mickey.<br>
   🔹 I love working with automation and currently explore <strong>UiPath</strong> in real-world projects.
 </p>
 
